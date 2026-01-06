@@ -1,4 +1,5 @@
 
+## 1-general-error.md
 
 ```markdown
 # رمز الخروج 1: خطأ عام (General Error)
